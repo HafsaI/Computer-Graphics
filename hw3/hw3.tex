@@ -1,0 +1,47 @@
+\documentclass{article}
+
+\usepackage{fullpage}
+\usepackage{hyperref}
+
+\title{Homework 3: Ray Tracing Engine}
+\author{CS 440 Computer Graphics\\Habib University, Fall 2021}
+\date{Due: 2359h on Sunday, 28 November}
+
+\begin{document}
+\maketitle
+\thispagestyle{empty}
+
+In this assignment, we will implement an extendable ray tracing engine.
+
+It is important to understand the setup. A scene to be rendered consists of \emph{geometry} whose appearance is determined through \emph{material}s. An image is formed when the scene is \emph{sample}d by a \emph{camera} through a \emph{view plane}. The variety of objects of each of the above types is modeled through class hierarchies in the accompanying \texttt{raytracer} directory. It is suggested that you browse the relevant files in the directory as you read about them below.
+\begin{itemize}
+\item The \texttt{geometry} folder contains declarations of an abstract class, \texttt{Geometry}, and concrete classes  \texttt{Plane}, \texttt{Sphere}, and \texttt{Triangle} which inherit from \texttt{Geometry}. You have to provide the missing class implementations.
+\item The \texttt{materials} folder contains declarations of an abstract class, \texttt{Material}, and a concrete class  \texttt{Cosine} that inherits from \texttt{Material}. The cosine material assigns color based on the angle between the ray and the normal at the hit point. You have to provide the missing class implementations.
+\item The \texttt{samplers} folder contains declarations of an abstract class, \texttt{Sampler}, and a concrete class  \texttt{Simple} that inherits from \texttt{Sampler}. The \texttt{Simple} sampler shoots 1 ray through the center of a pixel. You have to provide the missing class implementations.
+\item The \texttt{cameras} folder contains declarations of an abstract class, \texttt{Camera}, and concrete classes, \texttt{Parallel} and \texttt{Perspective}, that inherit from \texttt{Camera}. A parallel camera stores the direction of projection and a perspective camera stores the center of projection. You have to provide the missing class implementations.
+\end{itemize}
+
+The \texttt{utilities} folder includes declarations of utility classes, notably \texttt{Image} and \texttt{ShadeInfo}. \texttt{Image} holds pixel colors and writes an image to file in \href{https://en.wikipedia.org/wiki/Netpbm_format#PPM_example}{PPM format} (ASCII version). \texttt{ShadeInfo} contains all the information required for shading a point. These classes refer to classes from the \texttt{world} folder. You have to provide the missing class implementations.
+
+The \texttt{world} folder includes declarations of 2 classes. \texttt{ViewPlane} contains information on the view plane. \texttt{World} contains all the information required to render the scene--the geometry and associated materials, the view plane, the camera and sampler, and the background color. \texttt{World::build} populates the world. You will reimplement this function each time to define a new image to be rendered. The \texttt{build} folder includes some sample implementations of \texttt{World::build}. A sample output for the ``hello world'' scene is included as \texttt{sample.ppm}. You have to provide the missing class implementations.
+
+The file \texttt{raytracer.cpp} illustrates how everything comes together in order to render a scene. The file is fully implemented.
+
+Go over the provided files to make sure that you understand the overall structure.
+  
+\section*{Task}
+Your task is to implement the necessary classes such that running the provided \texttt{raytracer.cpp} as-is renders the scene defined in \texttt{World::build}. You may use the 3 sample \texttt{build} functions provided in the \texttt{build} folder. Share your resulting images on the course Yammer group. A sample output for the ``hello world'' scene is included as \texttt{sample.ppm}.
+
+The provided code is backward-compatible until C++ 11. You may make any necessary minor changes to facilitate compilation at your end. There is significant inter-operation of classes, so make sure that class interfaces are not affected. Make sure to include any special compile instructions in the relevant section at the bottom of the accompanying README file for the benefit of your peer reviewer. It is important that your code compiles. \textit{Non-compiling code cannot be reviewed}.
+
+You may find yourself needing to write test files within each folder. Make sure that you fully understand the geometric counterpart of what your code achieves. Otherwise, you are likely to find testing extremely arduous.
+
+\section*{Credits}
+
+The code is adapted from that provided by \href{http://www.raytracegroundup.com/}{Kevin Suffern}.
+
+\end{document}
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:
