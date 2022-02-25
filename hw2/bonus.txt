@@ -1,0 +1,11 @@
+// BONUS //
+
+Tetrix:
+Colored the faces of the tetrahedron according to a color scheme
+
+Mandelbrot GPU:
+Lets the user control $n_t$ through an interactive slider and updates the visualization accordingly in real time
+
+Reflex:
+- The colors of polygon change between appearances
+- The current score is displayed and updated on the page
