@@ -1,1 +1,1 @@
-# Data-Structures-II
+# Computer Graphics Course
