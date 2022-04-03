@@ -27,8 +27,7 @@ A sample of my recent articles:
 ## Some visualisations
 
 <p float="left">
- <details>
-  <summary>Homeworks</summary>
+
    
   <img height = 200px width = 350px align="center" src="https://github.com/HafsaI/Computer-Graphics/tree/main/images/tri_poly.png" />
   <img height = 200px width = 350px align="center" src="https://github.com/HafsaI/Computer-Graphics/blob/main/images/rect_poly.PNG" />
