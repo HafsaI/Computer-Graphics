@@ -1,9 +1,4 @@
-# ComputerGraphics
-
-
-
-# Computer Graphics Course: CS 440
-
+# ComputerGraphics : CS 440
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
@@ -16,7 +11,7 @@
 
 ## &#x270d; Description
 
- [martinheinz.dev](https://martinheinz.dev/) 
+  <!-- [martinheinz.dev](https://martinheinz.dev/) -->
  ### Homework 1
  
  ### Homework 2
@@ -29,7 +24,7 @@ A sample of my recent articles:
 - [Optimizing Memory Usage in Python Applications](https://bit.ly/3M30D82)
 
 
-## &#x1f4c8; Homeworks
+### &#x1f4c8; Homeworks
 
 <p float="left">
  <details>
@@ -53,7 +48,7 @@ A sample of my recent articles:
 </details>
 </p>
 
-## &#128101; Group Members
+### &#128101; Group Members
 Hafsa Irfan, Akeel Ather Medina
 
 
