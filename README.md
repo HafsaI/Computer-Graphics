@@ -14,18 +14,20 @@
 ![](https://img.shields.io/badge/API-WebGL-informational?style=flat&logo=webgl&logoColor=white&color=2bbc8a)
 
 
-## &#x270d; Blog & Writing
+## &#x270d; Description
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
+ [martinheinz.dev](https://martinheinz.dev/) 
+ ### Homework 1
+ 
+ ### Homework 2
+ 
+ ### Homework 3
 
 A sample of my recent articles:
 
-<!-- BLOG-POST-LIST:START -->
 - [Ultimate CI Pipeline for All of Your Python Projects](https://bit.ly/3MI4Iz0)
 - [Optimizing Memory Usage in Python Applications](https://bit.ly/3M30D82)
-- [Upcoming Python Features Brought to You by Python Enhancement Proposals](https://bit.ly/3oMJ6qR)
-- [Creating Beautiful Tracebacks with Python&#39;s Exception Hooks](https://bit.ly/3IRD7IK)
-<!-- BLOG-POST-LIST:END -->
+
 
 ## &#x1f4c8; Homeworks
 
