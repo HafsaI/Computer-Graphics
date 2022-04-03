@@ -29,20 +29,21 @@ A sample of my recent articles:
 <p float="left">
  <details>
   <summary>Homeworks</summary>
-  <img height = 200px width = 350px align="center" src="https://github.com/HafsaI/ComputerGraphics/blob/main/images/tri_poly.png" />
- <img height = 200px width = 350px align="center" src="https://github.com/HafsaI/ComputerGraphics/blob/main/images/rect_poly.PNG" />
- <!-- <img height = 300px width = 380px align="center" src="https://github.com/HafsaI/ComputerGraphics/blob/main/images/sierpinski_1.png" /> -->
+   
+  <img height = 200px width = 350px align="center" src="https://github.com/HafsaI/Computer-Graphics/tree/main/images/tri_poly.png" />
+ <img height = 200px width = 350px align="center" src="https://github.com/HafsaI/Computer-Graphics/blob/main/images/rect_poly.PNG" />
+ <!-- <img height = 300px width = 380px align="center" src="https://github.com/HafsaI/Computer-Graphics/blob/main/images/sierpinski_1.png" /> -->
   <div>
-<img width = 500px align="center" src="https://github.com/HafsaI/ComputerGraphics/blob/main/images/circles.png" />
+<img width = 500px align="center" src="https://github.com/HafsaI/Computer-Graphics/blob/main/images/circles.png" />
   </div>
     <div>
-  <img width = 500px align="center" src="https://github.com/HafsaI/ComputerGraphics/blob/main/images/sierpinski_2.png" />
+  <img width = 500px align="center" src="https://github.com/HafsaI/Computer-Graphics/blob/main/images/sierpinski_2.png" />
  </div>
    
-  <img height = 300px width = 300px align="center" src="https://github.com/HafsaI/ComputerGraphics/blob/main/images/mandelbrot_cpu.png" />
-<img height = 300px width = 300px align="center" src="https://github.com/HafsaI/ComputerGraphics/blob/main/images/mandelbrot_gpu.png" />
-  <img height = 400px width = 500px align="center" src="https://github.com/HafsaI/ComputerGraphics/blob/main/images/reflex.png" />
-<img height = 400px width = 500px align="center" src="https://github.com/HafsaI/ComputerGraphics/blob/main/images/galore.png" />
+  <img height = 300px width = 300px align="center" src="https://github.com/HafsaI/Computer-Graphics/blob/main/images/mandelbrot_cpu.png" />
+<img height = 300px width = 300px align="center" src="https://github.com/HafsaI/Computer-Graphics/blob/main/images/mandelbrot_gpu.png" />
+  <img height = 400px width = 500px align="center" src="https://github.com/HafsaI/Computer-Graphics/blob/main/images/reflex.png" />
+<img height = 400px width = 500px align="center" src="https://github.com/HafsaI/Computer-Graphics/blob/main/images/galore.png" />
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 </details>
