@@ -44,8 +44,12 @@ A sample of my recent articles:
   <img height = 400px width = 500px align="center" src="https://github.com/HafsaI/Computer-Graphics/blob/main/images/reflex.png" />
   <img height = 400px width = 500px align="center" src="https://github.com/HafsaI/Computer-Graphics/blob/main/images/galore.png" />
   <img src="https://github.com/HafsaI/Computer-Graphics/blob/main/images/tetrahedron.gif" width="200px">
+     <img src="https://github.com/HafsaI/Computer-Graphics/blob/main/images/tetrahedron.webm" width="200px">
 
-</details>
+ <!-- <details>
+  <summary>Homeworks</summary>
+   
+</details> -->
 </p>
 
 ##### &#128101; Group Members
