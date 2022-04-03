@@ -29,7 +29,7 @@ A sample of my recent articles:
 <p float="left">
 
    
-  <img height = 200px width = 350px align="center" src="https://github.com/HafsaI/Computer-Graphics/tree/main/images/tri_poly.png" />
+  <img height = 200px width = 350px align="center" src="https://github.com/HafsaI/Computer-Graphics/blob/main/images/tri_poly.png" />
   <img height = 200px width = 350px align="center" src="https://github.com/HafsaI/Computer-Graphics/blob/main/images/rect_poly.PNG" />
   <!-- <img height = 300px width = 380px align="center" src="https://github.com/HafsaI/Computer-Graphics/blob/main/images/sierpinski_1.png" /> -->
   <div>
