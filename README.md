@@ -21,7 +21,6 @@
 
 A sample of my recent articles:
 
-- [Ultimate CI Pipeline for All of Your Python Projects](https://bit.ly/3MI4Iz0)
 - [Optimizing Memory Usage in Python Applications](https://bit.ly/3M30D82)
 
 
