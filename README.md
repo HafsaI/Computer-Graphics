@@ -1,6 +1,6 @@
 # ComputerGraphics : CS 440
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
@@ -9,7 +9,7 @@
 ![](https://img.shields.io/badge/API-WebGL-informational?style=flat&logo=webgl&logoColor=white&color=2bbc8a)
 
 
-## &#x270d; Description
+##  Description
 
   <!-- [martinheinz.dev](https://martinheinz.dev/) -->
  ### Homework 1
@@ -24,7 +24,7 @@ A sample of my recent articles:
 - [Optimizing Memory Usage in Python Applications](https://bit.ly/3M30D82)
 
 
-### &#x1f4c8; Homeworks
+## Homeworks
 
 <p float="left">
  <details>
@@ -48,7 +48,7 @@ A sample of my recent articles:
 </details>
 </p>
 
-### &#128101; Group Members
+##### &#128101; Group Members
 Hafsa Irfan, Akeel Ather Medina
 
 
