@@ -4,9 +4,9 @@
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/html-Html-informational?style=flat&logo=html&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/css-CSS-informational?style=flat&logo=css&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Html-informational?style=flat&logo=HTML&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/API-WebGL-informational?style=flat&logo=webgl&logoColor=white&color=2bbc8a)
 
 
