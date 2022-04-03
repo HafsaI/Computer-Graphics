@@ -35,9 +35,7 @@ A sample of my recent articles:
   <div>
   <img width = 500px align="center" src="https://github.com/HafsaI/Computer-Graphics/blob/main/images/circles.png" />
   </div>
-   <div>
   <img width = 500px align="center" src="https://github.com/HafsaI/Computer-Graphics/blob/main/images/sierpinski_2.png" />
-  </div>
   <img height = 300px width = 300px align="center" src="https://github.com/HafsaI/Computer-Graphics/blob/main/images/mandelbrot_cpu.png" />
   <img height = 300px width = 300px align="center" src="https://github.com/HafsaI/Computer-Graphics/blob/main/images/mandelbrot_gpu.png" />
   <img height = 400px width = 500px align="center" src="https://github.com/HafsaI/Computer-Graphics/blob/main/images/reflex.png" />
