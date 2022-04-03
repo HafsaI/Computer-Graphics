@@ -43,7 +43,7 @@ A sample of my recent articles:
   <img height = 300px width = 300px align="center" src="https://github.com/HafsaI/Computer-Graphics/blob/main/images/mandelbrot_gpu.png" />
   <img height = 400px width = 500px align="center" src="https://github.com/HafsaI/Computer-Graphics/blob/main/images/reflex.png" />
   <img height = 400px width = 500px align="center" src="https://github.com/HafsaI/Computer-Graphics/blob/main/images/galore.png" />
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  <img src="https://github.com/HafsaI/Computer-Graphics/blob/main/images/tetrahedron.gif" width="200px">
 
 </details>
 </p>
