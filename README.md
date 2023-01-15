@@ -7,17 +7,17 @@
 ![](https://img.shields.io/badge/Code-Html-informational?style=flat&logo=HTML&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/API-WebGL-informational?style=flat&logo=webgl&logoColor=white&color=2bbc8a)
+ ![](https://img.shields.io/badge/API-WebGL-informational?style=flat&logo=webgl&logoColor=white&color=2bbc8a)
 
 
-##  Description
+<! --- ##  Description
 
   <!-- [martinheinz.dev](https://martinheinz.dev/) -->
- #### Homework 1
- https://youtu.be/QoPuNI0YGr8
- #### Homework 2
+ <! --- #### Homework 1
+ <! --- https://youtu.be/QoPuNI0YGr8
+ <! --- #### Homework 2
  
- #### Homework 3
+ <! ---#### Homework 3
 
 
 
