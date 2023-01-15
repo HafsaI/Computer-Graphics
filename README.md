@@ -37,7 +37,7 @@
   <img height = 300px width = 300px align="center" src="https://github.com/HafsaI/Computer-Graphics/blob/main/images/mandelbrot_gpu.png" />
 <! ---  <img height = 400px width = 500px align="center" src="https://github.com/HafsaI/Computer-Graphics/blob/main/images/reflex.png" />
 <! --- <img height = 400px width = 500px align="center" src="https://github.com/HafsaI/Computer-Graphics/blob/main/images/galore.png" />
-[comment]: <> <img src="https://github.com/HafsaI/Computer-Graphics/blob/main/images/tetrahedron.gif" width="200px">
+<img src="https://github.com/HafsaI/Computer-Graphics/blob/main/images/tetrahedron.gif" width="200px">
 </p>
 
 ##### &#128101; Group Members
